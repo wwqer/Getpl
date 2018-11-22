@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>items</key>
-    <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>>http://www.qpwcs.com:8088/Download/ipa/10.24.ipa</string>
+   <dict>
+      <key>items</key>
+      <array>
+         <dict>
+            <key>assets</key>
+            <array>
+                 <dict>
+                      <key>kind</key>
+                      <string>software-package</string>
+                      <key>url</key>
+                      <string>>http://www.qpwcs.com:8088/Download/ipa/10.24.ipa</string>
+                 </dict>
+             </array>
+             <key>metadata</key>
+             <dict>
+                  <key>bundle-identifier</key>
+                  <string>com.apple.developer.team-identifier</string>
+                  <key>bundle-version</key>
+                  <string>1.00</string>
+                  <key>kind</key>
+                  <string>software</string>
+                  <key>releaseNotes</key>
+                  <string>测试OTA</string>
+                  <key>title</key>
+                  <string>在线安装测试</string>
+             </dict>
           </dict>
         </array>
-        <key>metadata</key>
-        <dict>
-          <key>bundle-identifier</key>
-          <string>com.apple.developer.team-identifier</string>
-          <key>bundle-version</key>
-          <string>1.00</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>releaseNotes</key>
-          <string>测试OTA</string>
-          <key>title</key>
-          <string>在线安装测试</string>
-        </dict>
-      </dict>
-    </array>
-  </dict>
+    </dict>
 </plist>
