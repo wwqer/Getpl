@@ -11,9 +11,19 @@
                       <key>kind</key>
                       <string>software-package</string>
                       <key>url</key>
-                      <string>>http://www.qpwcs.com:8088/Download/ipa/10.24.ipa</string>
+                      <string>>http://www.wwwqer.xyz:8090/Download/ipa/10.24.ipa</string>
                  </dict>
-             </array>
+
+                  <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.wwwqer.xyz:8090/image/Icon-29.png</string>
+                  </dict>
+
+            </array>
              <key>metadata</key>
              <dict>
                   <key>bundle-identifier</key>
